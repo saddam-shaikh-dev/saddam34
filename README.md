@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saddam34
-- 👀 I’m interested in DATA ANALYTICS
-- 🌱 I’m currently learning DATA ANALYSIS
+- 👀 I’m interested in Software Devlopment
+- 🌱 I’m currently learning .Net MVC
 - 💞️ I’m looking to collaborate on... 
 - 📫 How to reach me - ss631821@gmail.com
 
