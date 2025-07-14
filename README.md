@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Devlopment
 - 🌱 I’m currently learning .Net MVC & Web API Services
 - 💞️ I’m looking to collaborate on... 
-- 📫 How to reach me - ss631821@gmail.com
+- 📫 How to reach me - saddam.shaikh.dev@gmail.com
 
 <!---
 saddam34/saddam34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
